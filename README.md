@@ -7,17 +7,24 @@
 
 ---
 
-## 📊 GitHub Overview
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=luckchain777&show_icons=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=luckchain777&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=luckchain777&repo=BlockMint-NFT-Marketplace&theme=radical" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=luckchain777&repo=ai-powered-job-assistant&theme=radical" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=luckchain777&repo=ChainVault-DeFi&theme=radical" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=luckchain777&repo=CryptoTrack-Portfolio&theme=radical" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=luckchain777&repo=DeFiYield-Farming&theme=radical" />
 </p>
 
 ---
 
+## 📊 GitHub Overview
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=luckchain777&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=luckchain777&theme=radical" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=luckchain777&layout=compact&theme=radical" />
+</p>
+
+---
 
 ## 📈 Activity
 
