@@ -7,11 +7,13 @@
 
 ---
 
+## ⭐ Featured Projects
+
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=luckchain777&repo=BlockMint-NFT-Marketplace&theme=radical" />
   <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=luckchain777&repo=ai-powered-job-assistant&theme=radical" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=luckchain777&repo=ChainVault-DeFi&theme=radical" />
   <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=luckchain777&repo=CryptoTrack-Portfolio&theme=radical" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=luckchain777&repo=BlockMint-NFT-Marketplace&theme=radical" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=luckchain777&repo=ChainVault-DeFi&theme=radical" />
   <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=luckchain777&repo=DeFiYield-Farming&theme=radical" />
 </p>
 
